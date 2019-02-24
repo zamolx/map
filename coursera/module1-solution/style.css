@@ -1,0 +1,14 @@
+.full, .less {
+  color: green;
+}
+.empty {
+  color: red;
+}
+.border_empty {
+    border-color: red;
+    border-style: solid;
+}
+.border_full {
+    border-color: green;
+    border-style: solid;
+}
