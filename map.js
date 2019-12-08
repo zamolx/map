@@ -1,5 +1,5 @@
 var map = new L.Map('mapid', {
-    center: new L.LatLng(51.46, -0.205),
+    center: new L.LatLng(43.5833, 7.1167),
     zoom: 15
 });
 
